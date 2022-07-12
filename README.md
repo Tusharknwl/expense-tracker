@@ -1,3 +1,2 @@
-#Kharcha
-##The Expense Tracker
+# Kharcha: Expense Tracker
 
